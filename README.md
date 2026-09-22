@@ -228,5 +228,5 @@ Currency-Forecasting/
 
 **Bhanu Vignesh**
 
-Computer Science and Engineering (Data Science)
+Computer Science and Engineering (Internet of Things)
 Vellore Institute of Technology (VIT)
